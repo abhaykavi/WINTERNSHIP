@@ -11,3 +11,4 @@ Write SparkContext based Pyspark code using RDD to answer following questions:
 4.	Which combination of electives gave good performance (use mean and standard deviation)
 5.	Which range of marks was highest in each elective and overall (assume range of class interval 5 like 50-55 etc)
 
+HAVE A LOOK AT IMAGES FOR OUTPUT
